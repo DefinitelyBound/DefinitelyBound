@@ -1,5 +1,7 @@
 # DefinitelyBound
 
+[![Join the chat at https://gitter.im/DefinitelyBound/DefinitelyBound](https://badges.gitter.im/DefinitelyBound/DefinitelyBound.svg)](https://gitter.im/DefinitelyBound/DefinitelyBound?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 # Badges
 
 Android and iOS libraries that have Xamarin bindings on DefinitelyBound can show their support by adding a badge to their README.
